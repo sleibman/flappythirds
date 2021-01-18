@@ -11,3 +11,7 @@ Don't crash into the walls, or tiles of the wrong number.
 ```diff
 @@Press space, click or tap.@@
 ```
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
