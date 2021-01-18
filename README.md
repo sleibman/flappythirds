@@ -8,5 +8,6 @@ Combine with tiles of the same number.
 
 Don't crash into the walls, or tiles of the wrong number.
 
+```diff
 @@Press space, click or tap.@@
-
+```
