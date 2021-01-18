@@ -1,4 +1,4 @@
-#This is a terrible game
+# This is a terrible game :rocket:
 
 http://tef.github.io/flappythirds/
 
